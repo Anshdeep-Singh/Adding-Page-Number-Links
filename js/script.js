@@ -1,8 +1,6 @@
 
 const noOfUsers = users.length;
 
-// const totalUsers = users.length;
-
 document.getElementById("noUsers").innerHTML = "Total :" + noOfUsers;
 
 const usersInEachPage = 10;
